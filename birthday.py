@@ -1,0 +1,10 @@
+num1="22nd Jan 2012"
+num2="12 Feb 2013"
+num3="17 March 2011"
+num4="18 July 2014"
+num5="25 Jan 2012"
+print("Friend 1:", num1)
+print("Friend 2:", num2)
+print("Friend 3:", num3)
+print("Friend 4:", num4)
+print("Friend 5:", num5)
